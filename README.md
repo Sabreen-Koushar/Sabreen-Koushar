@@ -10,7 +10,7 @@
 
 <h2>About Me</h2>
 
-<p>🌟 Crafting Digital Solutions Since 2020 </p> <br>
+<p>🌟 Crafting Digital Solutions Since 2020 </p> 
  <p>🛠 Tech Enthusiast: <br>
   Backend: Mastering Node.js <br>
   Frontend: Perfecting React.js <br>
