@@ -56,7 +56,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabreen-Koushar&theme=dark&hide_border=false"  />
 </div>
 
