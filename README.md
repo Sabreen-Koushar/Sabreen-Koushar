@@ -11,12 +11,12 @@
 <h2>About Me</h2>
 
 <p>🌟 Crafting Digital Solutions Since 2020 </p> 
- <p>🛠 Tech Enthusiast: <br>
+<p>🛠 Tech Enthusiast: <br>
   Backend: Mastering Node.js <br>
   Frontend: Perfecting React.js <br>
 🎯 Ambitions:  <br>
-Bug Whisperer: Sharpening my skills in finding and fixing bugs. <br>
-Growth Mindset: Evolving into a seasoned and versatile software engineer.<br>
+  Bug Whisperer: Sharpening my skills in finding and fixing bugs. <br>
+  Growth Mindset: Evolving into a seasoned and versatile software engineer.<br>
 </p>
 
 <h2 >Tech Stack</h2>
