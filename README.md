@@ -8,16 +8,6 @@
 <p>📍 From MANUU, Hyderabad</p>
 
 
-🌟 Crafting Digital Solutions Since 2020
-
-🛠 Tech Enthusiast:
-
-Backend: Mastering Node.js <br>
-Frontend: Perfecting React.js <br>
-🎯 Ambitions: <br>
-Bug Whisperer: Sharpening my skills in finding and fixing bugs.
-Growth Mindset: Evolving into a seasoned and versatile software engineer.
-44444
 <h2>About Me</h2>
 
 <p>🌟 Crafting Digital Solutions Since 2020 <br>
