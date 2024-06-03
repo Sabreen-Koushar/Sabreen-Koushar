@@ -13,8 +13,9 @@
 <p>🌟 Crafting Digital Solutions Since 2020 </p> 
 <p><strong>🛠 Tech Enthusiast: </strong> <br>
   <strong>Backend: </strong> Mastering Node.js <br>
-  <strong>Frontend: </strong> Perfecting React.js <br>
-<strong>🎯 Ambitions: </strong> <br>
+  <strong>Frontend: </strong> Perfecting React.js <br> </p>
+  
+<p><strong>🎯 Ambitions: </strong> <br>
  <strong> Bug Whisperer: </strong> Sharpening my skills in finding and fixing bugs. <br>
  <strong> Growth Mindset: </strong> Evolving into a seasoned and versatile software engineer.<br>
 </p>
