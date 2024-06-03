@@ -12,7 +12,7 @@
 
 <p>🌟 Crafting Digital Solutions Since 2020 </p> 
 <p>🛠 Tech Enthusiast: <br>
-  Backend: Mastering Node.js <br>
+  <strong>Backend: </strong> Mastering Node.js <br>
   Frontend: Perfecting React.js <br>
 🎯 Ambitions:  <br>
   Bug Whisperer: Sharpening my skills in finding and fixing bugs. <br>
