@@ -4,14 +4,33 @@
 
 <h1 "> I'm Sabreen Koushar! 👋</h1>
 
-<p>A passionate web developer and aspiring software engineer from MANUU, Hyderabad. Creating digital experiences and solving problems through elegant code.</p>
+<p>👨‍💻 Web Developer & Aspiring Software Engineer</p>
+<p>📍 From MANUU, Hyderabad</p>
 
+
+
+444
+🌟 Crafting Digital Solutions Since 2020
+
+🛠 Tech Enthusiast:
+
+Backend: Mastering Node.js
+Frontend: Perfecting React.js
+🎯 Ambitions:
+
+Bug Whisperer: Sharpening my skills in finding and fixing bugs.
+Growth Mindset: Evolving into a seasoned and versatile software engineer.
+44444
 <h2>About Me</h2>
 
-<p>🚀 Crafting bug-free solutions since 2020 <br>
-🌱 Currently diving deep into Node.js for backend and React.js for frontend <br>
-🎯 Goal: Mastering the art of bug-finding and resolution, evolving into a seasoned coder-engineer 😊 <br>
-💡 Fun Fact: Coding is not just my job, it's my passion! 💻</p>
+<p>🌟 Crafting Digital Solutions Since 2020 <br>
+ 🛠 Tech Enthusiast: <br>
+  Backend: Mastering Node.js <br>
+  Frontend: Perfecting React.js
+🎯 Ambitions:  <br>
+Bug Whisperer: Sharpening my skills in finding and fixing bugs. <br>
+Growth Mindset: Evolving into a seasoned and versatile software engineer.<br>
+</p>
 
 <h2 >Tech Stack</h2>
 
